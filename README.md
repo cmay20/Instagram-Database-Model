@@ -17,6 +17,8 @@ To reach its final state, the project went through several phases adhering to th
 9. Develop Queries using Python and PostgreSQL to implement Instagram features (e.g posts,follows,likes,comments,etc).
 
 #### To Run
+- Begin psql session
+- Run initialize.sql file with ```psql -d postgres -U <user> -f initialize.sql```
 - Execute ```python <query_name>.py```
 
 
